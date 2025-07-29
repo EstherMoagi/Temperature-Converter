@@ -3,4 +3,5 @@ Temperature-Converter , one of the task i learned during my intership
 ## What does it do
 It converts Celsius, Fahrenheit,  and Kelvin
 ## How does it work
-include any number of Celsius, Fahrenheit,  or Kelvin
+Double click on the index.html to open  the Temperature_Converter Than Input any number of Celsius, Fahrenheit,  or Kelvin.
+After getting the results you can press the clear button.
