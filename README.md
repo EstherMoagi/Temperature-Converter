@@ -1,5 +1,5 @@
-## Prodigy InfoTech Internship Tasks
-Temperature-Converter , one of the task i learned during my intership
+## Temperature-Converter
+Temperature-Converter 
 ## What does it do
 It converts Celsius, Fahrenheit,  and Kelvin
 ## How does it work
