@@ -8,7 +8,6 @@ A simple temperature web application that  converts Celsius, Fahrenheit,  and Ke
 
 ## Technologies Used
 - HTML
-- CSS
 
 ##  Installation & Setup
 
